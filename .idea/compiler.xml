@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Smart_Calculator.Smart_Calculator-task-build-classes-java.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-reports-tests.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-test-results.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-tmp.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-out.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task.main" target="11" />
+      <module name="Smart_Calculator.Topics-Queue_and_Stack-Greedy_load_balance.main" target="11" />
+      <module name="Smart_Calculator.Topics-Queue_and_Stack-Queue_accessing_rule.main" target="11" />
+      <module name="Smart_Calculator.Topics-Queue_and_Stack-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-Queue_and_Stack-Using_deque.main" target="11" />
+      <module name="Smart_Calculator.Topics-Queue_and_Stack-Working_with_queue.main" target="11" />
+      <module name="Smart_Calculator.Topics-Replacing_characters-Check_the_essay.main" target="11" />
+      <module name="Smart_Calculator.Topics-Replacing_characters-Methods_of_a_string.main" target="11" />
+      <module name="Smart_Calculator.Topics-Replacing_characters-Methods_of_Matcher.main" target="11" />
+      <module name="Smart_Calculator.Topics-Replacing_characters-Remove_comments.main" target="11" />
+      <module name="Smart_Calculator.Topics-Replacing_characters-Remove_extra_spaces.main" target="11" />
+      <module name="Smart_Calculator.Topics-Replacing_characters-Remove_HTML_tags.main" target="11" />
+      <module name="Smart_Calculator.Topics-Replacing_characters-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-Replacing_characters-What_is_the_result.main" target="11" />
+      <module name="Smart_Calculator.Topics-Static_members-Detail_manufacturing.main" target="11" />
+      <module name="Smart_Calculator.Topics-Static_members-Searching_bugs.main" target="11" />
+      <module name="Smart_Calculator.Topics-Static_members-Statements.main" target="11" />
+      <module name="Smart_Calculator.Topics-Static_members-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_keyword_super-Bank_account.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_keyword_super-Employees.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_keyword_super-Statements.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_keyword_super-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_Map_interface-Counting_words.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_Map_interface-Getting_submaps.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_Map_interface-Modifying_a_map.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_Map_interface-Sherlock_Holmes_and_the_mystery_of_anagrams.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_Map_interface-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_Set_interface-Spell_checker.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_Set_interface-Theory.main" target="11" />
+      <module name="Smart_Calculator.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
